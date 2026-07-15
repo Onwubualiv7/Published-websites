@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Studio",
+  "description": "A stunning, premium landing page and portfolio for Lumière Studio, a luxury interior design firm specializing in high-end residential and boutique commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
